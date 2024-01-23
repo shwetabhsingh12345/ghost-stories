@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "frontend": "cd frontend && npm start -- --port=3000",
-    "backend": "cd backend && npm start -- --port=5000",
+    "frontend": "cd frontend && npm start",
+    "backend": "cd backend && npm start",
     "start": "concurrently \"npm run frontend\" \"npm run backend\""
   },  
   "keywords": [],
