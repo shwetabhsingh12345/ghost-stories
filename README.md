@@ -1,6 +1,3 @@
-Certainly! Here's a concise and professional project description for your resume:
-
----
 
 **Full-Stack Web Application Development Project (MERN Stack)**
 
